@@ -12,6 +12,9 @@ namespace Northwind
         // Verifying the RouteConfig
         // VErifying the published code
 
+            // Verifying the checkin and checkout
+
+
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
